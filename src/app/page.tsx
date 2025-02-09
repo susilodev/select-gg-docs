@@ -10,7 +10,7 @@ import { dracula } from "react-syntax-highlighter/dist/esm/styles/prism";
 import MultipleComboboxSelect from "../components/string/MultipleComboboxSelect";
 import MultipleComboboxString from "../components/string/MultipleComboboxString";
 import MultipleDisable from "@/components/string/MultipleDisable";
-import { Github, GithubIcon } from "lucide-react";
+import { GithubIcon } from "lucide-react";
 import { SiStorybook } from "react-icons/si";
 
 const options = [
